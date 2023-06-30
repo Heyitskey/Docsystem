@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+<input type="text" class="form-control border-0" placeholder="Your Mobile" style={style13} />
